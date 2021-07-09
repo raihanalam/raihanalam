@@ -2,7 +2,7 @@
 
 I am <h3>Raihan Alam</h3>
 <small>Fullstack Web Application Developer</small> 
-<br>s
+<br>
 - 🎓 I,m curently studing on B.SC. Computer Science & Engineering. 
 - 🔭 I’m currently working as freelancer.
 - 🌱 I’m currently learning Django, React and so on.
