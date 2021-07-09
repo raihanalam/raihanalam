@@ -7,7 +7,6 @@ I am <h3>Raihan Alam</h3>
 - 🔭 I’m currently working as freelancer.
 - 🌱 I’m currently learning Django, React and so on.
 - 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for help with .
 - 💬 Ask me about my hobbies
 - 📫 How to reach me: Linkedin/Whatsapp
 - 😄 Pronouns: anything you like.
