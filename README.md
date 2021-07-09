@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am <span style="color:green;">Raihan Alam</span>
+I am <span style="color:green;">Raihan Alam</span><br>
 <small>Fullstack Web Application Developer</small> 
 <br>
 - 🎓 I,m curently studing on B.SC. Computer Science & Engineering. 
