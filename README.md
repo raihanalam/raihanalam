@@ -8,9 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihanalam" alt="raihanalam" /></a> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=raihanalam&theme=onedark"><img src="https://github.com/raihanalam/github-profile-trophy" alt="raihanalam" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=raihanalam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="left"> <a href="https://twitter.com/raihanhridoybd" target="blank"><img src="https://img.shields.io/twitter/follow/raihanhridoybd?logo=twitter&style=for-the-badge" alt="raihanhridoybd" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
