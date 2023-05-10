@@ -10,13 +10,21 @@
 
 <!-- <p align="center"> <a href="https://twitter.com/raihanhridoybd" target="blank"><img src="https://img.shields.io/twitter/follow/raihanhridoybd?logo=twitter&style=for-the-badge" alt="raihanhridoybd" /></a> </p> -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raihan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raihan01" height="30" width="40" /></a>
-</p>
-<h3 align=left>Follow me on:</h3>
-<p align="left">
+<div style="display:flex;">
+  <div>
+    <h5 align="left">Connect with me:</h5>
+    <p align="left">
+    <a href="https://linkedin.com/in/raihan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raihan01" height="30" width="40" /></a>
+    </p>
+  </div>
+  <div>
+  <h5 align=left>Follow me on:</h5>
 <a href="https://twitter.com/raihanhridoybd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raihanhridoybd" height="30" width="40" /></a></p>
+  
+  </div>
+</div>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
