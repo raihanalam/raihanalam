@@ -10,7 +10,7 @@
 
 <!-- <p align="center"> <a href="https://twitter.com/raihanhridoybd" target="blank"><img src="https://img.shields.io/twitter/follow/raihanhridoybd?logo=twitter&style=for-the-badge" alt="raihanhridoybd" /></a> </p> -->
 
-<div style="display:flex;">
+<div style="display:flex; color red;">
   <div>
     <h5 align="left">Connect with me:</h5>
     <p align="left">
