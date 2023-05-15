@@ -1,7 +1,4 @@
 
-<div style="float:right;">
-<p> <img src="https://komarev.com/ghpvc/?username=raihanalam&label=Profile%20views&color=0e75b6&style=flat" alt="raihanalam" /> </p>
-  </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Raihan</h1>
 
 <div id="header" align="center">
@@ -29,4 +26,10 @@
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=raihanalam&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<div style="float:right;">
+  <p>
+  <img src="https://komarev.com/ghpvc/?username=raihanalam&label=Profile%20views&color=0e75b6&style=flat" alt="raihanalam" />
+  </p>
 </div>
