@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h3 align="center">A passionate software developer from Bangladesh</h3>
+<h3 align="center">A passionate programmer from Bangladesh</h3>
 
 
 <div align="center">
