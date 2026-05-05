@@ -2,7 +2,7 @@
 <!-- HEADER with animated gradient -->
 <!-------------------------------------------------------------------------------------------->
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Raihan;Welcome+to+my+GitHub!;Developer+%7C+Creator+%7C+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Raihan;Welcome+to+my+GitHub!;Developer+%7C+Creator+%7C+Explorer" alt="Typing SVG" />
 </h1>
 
 <!-------------------------------------------------------------------------------------------->
@@ -11,7 +11,7 @@
 <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding" />
     <br />
-    <img src="https://komarev.com/ghpvc/?username=raihanalam&label=✨+Profile+Views&color=0e75b6&style=flat-square" alt="raihanalam" />
+    <img src="https://komarev.com/ghpvc/?username=raihanalam&label=✨+Profile+Views&color=6A0DAD&style=flat-square" alt="raihanalam" />
 </div>
 
 <!-- About me section with modern badge line -->
@@ -89,7 +89,7 @@
     <img src="https://skillicons.dev/icons?i=postman,nginx,bash,odoo,illustrator" />
 </p>
 
-<!-- GitHub Stats Section with modern cards & activity graph -->
+<!-- GitHub Stats Section with modern cards -->
 <h2 align="left">
     📊 GitHub Analytics
 </h2>
@@ -103,7 +103,39 @@
     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanalam&theme=tokyonight&hide_border=true&background=0d1117&stroke=6A0DAD&ring=6A0DAD&fire=6A0DAD&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
-<!-- Snake Game Contribution Grid (light/dark adaptive) -->
+<!-------------------------------------------------------------------------------------------->
+<!-- INTERACTIVE GITHUB ACTIVITY GRAPH - FULLY WORKING & ROBUST -->
+<!-------------------------------------------------------------------------------------------->
+<h2 align="left">
+    📈 Interactive Contribution Graph
+</h2>
+
+<!-- Option 1: GitHub Activity Graph (Most Reliable) -->
+<div align="center">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=raihanalam&theme=rogue&hide_border=true&area=true&custom_title=💻%20My%20Coding%20Journey&bg_color=0d1117&color=6A0DAD&line=6A0DAD&point=ffffff" />
+</div>
+
+<!-- Option 2: Alternative Grid-style Activity (Fallback/Extra) -->
+<div align="center">
+    <h3>📅 Weekly Development Breakdown</h3>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raihanalam&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6A0DAD&layout=compact&range=last_7_days" />
+</div>
+
+<!-- Option 3: Interactive 3D Contribution Calendar -->
+<details align="center">
+    <summary><b>✨ Click to see 3D Contribution Calendar ✨</b></summary>
+    <br />
+    <img src="https://raw.githubusercontent.com/raihanalam/raihanalam/main/profile-3d-contrib/profile-night-green.svg" />
+    <br /><br />
+    <i>🎨 Interactive 3D calendar - shows your contribution history in an animated style</i>
+</details>
+
+<!-------------------------------------------------------------------------------------------->
+<!-- SNAKE GAME CONTRIBUTION GRID (light/dark adaptive) -->
+<!-------------------------------------------------------------------------------------------->
+<h2 align="left">
+    🐍 Contribution Snake Game
+</h2>
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -112,9 +144,24 @@
     </picture>
 </div>
 
-<!-- Interactive Activity Graph (modern) -->
+<!-------------------------------------------------------------------------------------------->
+<!-- ROBUST STATISTICS DASHBOARD -->
+<!-------------------------------------------------------------------------------------------->
+<h2 align="left">
+    📊 Advanced Analytics Dashboard
+</h2>
+
 <div align="center">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=raihanalam&bg_color=0d1117&color=6A0DAD&line=6A0DAD&point=ffffff&area=true&hide_border=true" />
+    <!-- Language Stats with detailed breakdown -->
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raihanalam&theme=tokyonight" />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raihanalam&theme=tokyonight" />
+</div>
+
+<div align="center">
+    <!-- Time stats -->
+    <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raihanalam&theme=tokyonight" />
+    <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raihanalam&theme=tokyonight&utcOffset=6" />
+    <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihanalam&theme=tokyonight" />
 </div>
 
 <!-- Fun Fact & Quote Section -->
@@ -128,15 +175,21 @@
     <img src="https://github-profile-trophy.vercel.app/?username=raihanalam&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 </div>
 
-<!-- Latest YouTube Videos (optional, if you have channel) -->
+<!-- Latest YouTube Videos (interactive cards) -->
 <h2 align="left">
     📺 Latest YouTube Videos
 </h2>
 <div align="center">
-    <!-- Replace PLAYLIST_ID with your actual uploads list -->
-    <img src="https://ytcards.demolab.com/?id=PLdI0nP9LWx7d&title=Building+a+Full+Stack+App+with+Django+%26+React&lang=en&timestamp=1699563600&background_color=%230d1117&title_color=%236A0DAD&stats_color=%23ffffff&max_title_lines=1&width=300&border_radius=5" alt="YouTube video card" />
-    <img src="https://ytcards.demolab.com/?id=PLdI0nP9LWx8e&title=5+Python+Project+Ideas+for+Beginners&lang=en&timestamp=1699477200&background_color=%230d1117&title_color=%236A0DAD&stats_color=%23ffffff&max_title_lines=1&width=300&border_radius=5" alt="YouTube video card" />
-    <img src="https://ytcards.demolab.com/?id=PLdI0nP9LWx9f&title=Odoo+vs+Django+Which+one+to+choose%3F&lang=en&timestamp=1699390800&background_color=%230d1117&title_color=%236A0DAD&stats_color=%23ffffff&max_title_lines=1&width=300&border_radius=5" alt="YouTube video card" />
+    <!-- Replace with your actual video IDs or remove if not needed -->
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+        <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" width="280" height="157" style="border-radius: 10px; margin: 5px;" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=dhYOPzTbZh4" target="_blank">
+        <img src="https://img.youtube.com/vi/dhYOPzTbZh4/0.jpg" width="280" height="157" style="border-radius: 10px; margin: 5px;" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=Sb5aq5HcS1A" target="_blank">
+        <img src="https://img.youtube.com/vi/Sb5aq5HcS1A/0.jpg" width="280" height="157" style="border-radius: 10px; margin: 5px;" />
+    </a>
 </div>
 
 <!-- Support / Buy me a coffee -->
@@ -154,10 +207,19 @@
     <i>If you like my work, consider buying me a coffee – it fuels my open source contributions ☕</i>
 </div>
 
-<!-- Footer with dynamic visitor counter -->
+<!-- Dynamic status badges -->
+<div align="center">
+    <img src="https://img.shields.io/badge/dynamic/json?color=6A0DAD&label=GitHub+Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fraihanalam&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=6A0DAD&label=Stars&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fraihanalam&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=6A0DAD&label=Total+Commits&query=total_commits&url=https%3A%2F%2Fgithub-contributions-api.jogruber.workers.dev%2Fraihanalam&style=for-the-badge&logo=github" />
+</div>
+
+<!-- Footer with animated wave -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <div align="center">
     <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" width="90%" />
     <br />
     <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
+    <br />
+    <b>💡 "Code. Create. Innovate."</b>
 </div>
