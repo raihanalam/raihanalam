@@ -1,36 +1,163 @@
+<!-------------------------------------------------------------------------------------------->
+<!-- HEADER with animated gradient -->
+<!-------------------------------------------------------------------------------------------->
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Raihan;Welcome+to+my+GitHub!;Developer+%7C+Creator+%7C+Explorer" alt="Typing SVG" />
+</h1>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Raihan</h1>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!-------------------------------------------------------------------------------------------->
+<!-- PROFILE VIEW COUNT + ANIMATED BANNER -->
+<!-------------------------------------------------------------------------------------------->
+<div align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding" />
+    <br />
+    <img src="https://komarev.com/ghpvc/?username=raihanalam&label=✨+Profile+Views&color=0e75b6&style=flat-square" alt="raihanalam" />
 </div>
-<h3 align="center">A passionate programmer from Bangladesh</h3>
 
+<!-- About me section with modern badge line -->
+<h3 align="center">
+    🚀 A passionate full‑stack developer & problem solver from Bangladesh
+</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=6A0DAD" />
+    <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E" />
+    <img src="https://img.shields.io/badge/Framework-React-informational?style=flat-square&logo=react&logoColor=white&color=61DAFB" />
+    <img src="https://img.shields.io/badge/Framework-Django-informational?style=flat-square&logo=django&logoColor=white&color=092E20" />
+    <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED" />
+    <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazonaws&logoColor=white&color=FF9900" />
+</p>
+
+<!-------------------------------------------------------------------------------------------->
+<!-- SOCIAL MEDIA (with hover effects using inline style – works on GitHub) -->
+<!-------------------------------------------------------------------------------------------->
+<div align="center">
+    <a href="https://www.linkedin.com/in/raihanhridoybd/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/raihanhridoybd/" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://www.youtube.com/@raihanhridoybd" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
+    <a href="mailto:raihan.hridoy@example.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+</div>
+
+<!-- separator wave -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-------------------------------------------------------------------------------------------->
+<!-- SKILLS & TOOLS (animated icons, grouped) -->
+<!-------------------------------------------------------------------------------------------->
+<h2 align="left">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" />
+    Languages & Tools
+</h2>
+
+<!-- You can replace this with a grid display using HTML/CSS (GitHub supports basic inline styles) -->
+<div align="center">
+    <table>
+        <tr>
+            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" /><br />Python</td>
+            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" /><br />JS</td>
+            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" /><br />React</td>
+            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" height="45" /><br />Django</td>
+            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="45" height="45" /><br />Nginx</td>
+            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" /><br />Docker</td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /><br />C++</td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><br />HTML5</td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><br />CSS3</td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" /><br />PostgreSQL</td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /><br />MySQL</td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" /><br />Redis</td>
+        </tr>
+        <tr>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /><br />Node.js</td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /><br />Linux</td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><br />Git</td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" /><br />Azure</td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" /><br />AWS</td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /><br />Figma</td>
+        </tr>
+    </table>
+</div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=postman,nginx,bash,odoo,illustrator" />
+</p>
+
+<!-- GitHub Stats Section with modern cards & activity graph -->
+<h2 align="left">
+    📊 GitHub Analytics
+</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/raihanhridoybd/" target=”_blank”> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
-   <a href="https://www.linkedin.com/in/raihanhridoybd/" target=”_blank”><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
-   <a href="https://twitter.com/raihanhridoybd/" target=”_blank”><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raihanalam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6A0DAD&icon_color=6A0DAD" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanalam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6A0DAD" />
 </div>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="center" > <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Odoo_logo_rgb.svg" alt="odoo" width="80" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="azure" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  </p>
-<!-- <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a> -->
-
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raihanalam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raihanalam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=raihanalam&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanalam&theme=tokyonight&hide_border=true&background=0d1117&stroke=6A0DAD&ring=6A0DAD&fire=6A0DAD&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
-<div style="float:right;">
-  <p>
-  <img src="https://komarev.com/ghpvc/?username=raihanalam&label=Profile%20views&color=0e75b6&style=flat" alt="raihanalam" />
-  </p>
+<!-- Snake Game Contribution Grid (light/dark adaptive) -->
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="90%">
+    </picture>
+</div>
+
+<!-- Interactive Activity Graph (modern) -->
+<div align="center">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=raihanalam&bg_color=0d1117&color=6A0DAD&line=6A0DAD&point=ffffff&area=true&hide_border=true" />
+</div>
+
+<!-- Fun Fact & Quote Section -->
+<h2 align="left">
+    🧠 Dev Pulse
+</h2>
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.&author=Cory+House" />
+</div>
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=raihanalam&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+</div>
+
+<!-- Latest YouTube Videos (optional, if you have channel) -->
+<h2 align="left">
+    📺 Latest YouTube Videos
+</h2>
+<div align="center">
+    <!-- Replace PLAYLIST_ID with your actual uploads list -->
+    <img src="https://ytcards.demolab.com/?id=PLdI0nP9LWx7d&title=Building+a+Full+Stack+App+with+Django+%26+React&lang=en&timestamp=1699563600&background_color=%230d1117&title_color=%236A0DAD&stats_color=%23ffffff&max_title_lines=1&width=300&border_radius=5" alt="YouTube video card" />
+    <img src="https://ytcards.demolab.com/?id=PLdI0nP9LWx8e&title=5+Python+Project+Ideas+for+Beginners&lang=en&timestamp=1699477200&background_color=%230d1117&title_color=%236A0DAD&stats_color=%23ffffff&max_title_lines=1&width=300&border_radius=5" alt="YouTube video card" />
+    <img src="https://ytcards.demolab.com/?id=PLdI0nP9LWx9f&title=Odoo+vs+Django+Which+one+to+choose%3F&lang=en&timestamp=1699390800&background_color=%230d1117&title_color=%236A0DAD&stats_color=%23ffffff&max_title_lines=1&width=300&border_radius=5" alt="YouTube video card" />
+</div>
+
+<!-- Support / Buy me a coffee -->
+<h2 align="left">
+    ☕ Support My Work
+</h2>
+<div align="center">
+    <a href="https://www.buymeacoffee.com/raihanalam" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" />
+    </a>
+    <a href="https://ko-fi.com/raihanalam" target="_blank">
+        <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" width="180" />
+    </a>
+    <br /><br />
+    <i>If you like my work, consider buying me a coffee – it fuels my open source contributions ☕</i>
+</div>
+
+<!-- Footer with dynamic visitor counter -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<div align="center">
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" width="90%" />
+    <br />
+    <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 </div>
