@@ -116,14 +116,6 @@
 <div align="center">
     <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=raihanalam&bg_color=0d1117&color=6A0DAD&line=6A0DAD&point=ffffff&area=true&hide_border=true" />
 </div>
-
-<!-- Fun Fact & Quote Section -->
-<h2 align="left">
-    🧠 Dev Pulse
-</h2>
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.&author=Cory+House" />
-</div>
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=raihanalam&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 </div>
