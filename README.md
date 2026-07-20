@@ -112,24 +112,6 @@
     </picture>
 </div>
 
-<!-- Interactive Activity Graph (modern) -->
-<div align="center">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=raihanalam&bg_color=0d1117&color=6A0DAD&line=6A0DAD&point=ffffff&area=true&hide_border=true" />
-</div>
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=raihanalam&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-</div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raihanalam&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raihanalam&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raihanalam&theme=tokyo-night&hide_border=true"/>
-</p>
 
 <!-- Footer with dynamic visitor counter -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
