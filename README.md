@@ -1,163 +1,117 @@
-<!-------------------------------------------------------------------------------------------->
-<!-- HEADER with animated gradient -->
-<!-------------------------------------------------------------------------------------------->
-<h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Raihan;Welcome+to+my+GitHub!;Developer+%7C+Creator+%7C+Explorer" alt="Typing SVG" />
-</h1>
+# Hi 👋, I'm Raihan Alam
 
-<!-------------------------------------------------------------------------------------------->
-<!-- PROFILE VIEW COUNT + ANIMATED BANNER -->
-<!-------------------------------------------------------------------------------------------->
-<div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding" />
-    <br />
-    <img src="https://komarev.com/ghpvc/?username=raihanalam&label=✨+Profile+Views&color=0e75b6&style=flat-square" alt="raihanalam" />
-</div>
-
-<!-- About me section with modern badge line -->
-<h3 align="center">
-    🚀 A passionate full‑stack developer & problem solver from Bangladesh
-</h3>
+```{=html}
 <p align="center">
-    <img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=6A0DAD" />
-    <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E" />
-    <img src="https://img.shields.io/badge/Framework-React-informational?style=flat-square&logo=react&logoColor=white&color=61DAFB" />
-    <img src="https://img.shields.io/badge/Framework-Django-informational?style=flat-square&logo=django&logoColor=white&color=092E20" />
-    <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED" />
-    <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazonaws&logoColor=white&color=FF9900" />
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Python+%7C+Django+%7C+React+%7C+Next.js;Odoo+ERP+Developer;Building+Scalable+Enterprise+Solutions" />`{=html}
+```{=html}
 </p>
-
-<!-------------------------------------------------------------------------------------------->
-<!-- SOCIAL MEDIA (with hover effects using inline style – works on GitHub) -->
-<!-------------------------------------------------------------------------------------------->
-<div align="center">
-    <a href="https://www.linkedin.com/in/raihanhridoybd/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/raihanhridoybd/" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://www.youtube.com/@raihanhridoybd" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
-    <a href="mailto:raihan.hridoy@example.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-</div>
-
-<!-- separator wave -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-------------------------------------------------------------------------------------------->
-<!-- SKILLS & TOOLS (animated icons, grouped) -->
-<!-------------------------------------------------------------------------------------------->
-<h2 align="left">
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" />
-    Languages & Tools
-</h2>
-
-<!-- You can replace this with a grid display using HTML/CSS (GitHub supports basic inline styles) -->
-<div align="center">
-    <table>
-        <tr>
-            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" /><br />Python</td>
-            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" /><br />JS</td>
-            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" /><br />React</td>
-            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" height="45" /><br />Django</td>
-            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="45" height="45" /><br />Nginx</td>
-            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" /><br />Docker</td>
-        </tr>
-        <tr>
-            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /><br />C++</td>
-            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><br />HTML5</td>
-            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><br />CSS3</td>
-            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" /><br />PostgreSQL</td>
-            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /><br />MySQL</td>
-            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" /><br />Redis</td>
-        </tr>
-        <tr>
-            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /><br />Node.js</td>
-            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /><br />Linux</td>
-            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><br />Git</td>
-            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" /><br />Azure</td>
-            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" /><br />AWS</td>
-            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /><br />Figma</td>
-        </tr>
-    </table>
-</div>
+```
+```{=html}
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=postman,nginx,bash,odoo,illustrator" />
+```
+`<a href="https://www.linkedin.com/in/raihanhridoybd">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/raihanalam">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
 
-<!-- GitHub Stats Section with modern cards & activity graph -->
-<h2 align="left">
-    📊 GitHub Analytics
-</h2>
+------------------------------------------------------------------------
 
-<div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raihanalam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6A0DAD&icon_color=6A0DAD" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanalam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6A0DAD" />
-</div>
+## 🚀 About Me
 
-<div align="center">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanalam&theme=tokyonight&hide_border=true&background=0d1117&stroke=6A0DAD&ring=6A0DAD&fire=6A0DAD&currStreakNum=ffffff&sideNums=ffffff" />
-</div>
+-   💼 Full Stack Software Engineer
+-   🌱 Currently building Enterprise ERP & SaaS platforms
+-   ⚡ Specialized in Odoo, Django, React & Next.js
+-   ☁️ AWS • Docker • PostgreSQL • Linux
 
-<!-- Snake Game Contribution Grid (light/dark adaptive) -->
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-        <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="90%">
-    </picture>
-</div>
+## 🛠 Tech Stack
 
-<!-- Interactive Activity Graph (modern) -->
-<div align="center">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=raihanalam&bg_color=0d1117&color=6A0DAD&line=6A0DAD&point=ffffff&area=true&hide_border=true" />
-</div>
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=python,django,react,nextjs,js,ts,nodejs,tailwind,postgres,mysql,redis,docker,linux,git,github,aws,nginx,figma,postman&perline=10"/>`{=html}
+```{=html}
+</p>
+```
+## 🔥 Current Focus
 
-<!-- Fun Fact & Quote Section -->
-<h2 align="left">
-    🧠 Dev Pulse
-</h2>
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it%E2%80%99s+bad.&author=Cory+House" />
-</div>
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=raihanalam&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-</div>
+-   Enterprise ERP Development
+-   AI Powered Applications
+-   Scalable SaaS Platforms
+-   Modern UI/UX
 
-<!-- Latest YouTube Videos (optional, if you have channel) -->
-<h2 align="left">
-    📺 Latest YouTube Videos
-</h2>
-<div align="center">
-    <!-- Replace PLAYLIST_ID with your actual uploads list -->
-    <img src="https://ytcards.demolab.com/?id=PLdI0nP9LWx7d&title=Building+a+Full+Stack+App+with+Django+%26+React&lang=en&timestamp=1699563600&background_color=%230d1117&title_color=%236A0DAD&stats_color=%23ffffff&max_title_lines=1&width=300&border_radius=5" alt="YouTube video card" />
-    <img src="https://ytcards.demolab.com/?id=PLdI0nP9LWx8e&title=5+Python+Project+Ideas+for+Beginners&lang=en&timestamp=1699477200&background_color=%230d1117&title_color=%236A0DAD&stats_color=%23ffffff&max_title_lines=1&width=300&border_radius=5" alt="YouTube video card" />
-    <img src="https://ytcards.demolab.com/?id=PLdI0nP9LWx9f&title=Odoo+vs+Django+Which+one+to+choose%3F&lang=en&timestamp=1699390800&background_color=%230d1117&title_color=%236A0DAD&stats_color=%23ffffff&max_title_lines=1&width=300&border_radius=5" alt="YouTube video card" />
-</div>
+## 📌 Featured Projects
 
-<!-- Support / Buy me a coffee -->
-<h2 align="left">
-    ☕ Support My Work
-</h2>
-<div align="center">
-    <a href="https://www.buymeacoffee.com/raihanalam" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" />
-    </a>
-    <a href="https://ko-fi.com/raihanalam" target="_blank">
-        <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" width="180" />
-    </a>
-    <br /><br />
-    <i>If you like my work, consider buying me a coffee – it fuels my open source contributions ☕</i>
-</div>
+  Project              Description
+  -------------------- --------------------------
+  PetroPOS             Fuel Station ERP
+  FlexFactoryManager   Manufacturing ERP
+  BRAC Dairy ERP       Enterprise Manufacturing
+  Odoo eCommerce       Commerce Platform
+  Django SaaS          Multi-tenant System
 
-<!-- Footer with dynamic visitor counter -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-<div align="center">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" width="90%" />
-    <br />
-    <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
-</div>
+## 📊 GitHub Analytics
+
+```{=html}
+<p align="center">
+```
+`<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raihanalam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>`{=html}
+`<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raihanalam&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-streak-stats.herokuapp.com?user=raihanalam&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+## 📈 Contribution Graph
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=raihanalam&theme=tokyo-night&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+## 🐍 Contribution Snake
+
+```{=html}
+<p align="center">
+```
+`<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>`{=html}
+```{=html}
+</p>
+```
+## 🏆 GitHub Trophies
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=raihanalam&theme=tokyonight&no-frame=true&row=1&column=6"/>`{=html}
+```{=html}
+</p>
+```
+## 💬 Dev Quote
+
+```{=html}
+<p align="center">
+```
+`<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+Thanks for visiting ❤️`<br/>`{=html} ⭐ If you like my work, consider
+starring my repositories.
+```{=html}
+</p>
+```
