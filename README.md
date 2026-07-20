@@ -64,7 +64,7 @@
             <td align="center" width="90"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" /><br />JS</td>
             <td align="center" width="90"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" /><br />React</td>
             <td align="center" width="90"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" height="45" /><br />Django</td>
-            <td align="center"><img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo_inverted.png" width="40" height="40" /><br />Odoo</td>
+            <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Odoo_logo_rgb.svg/3840px-Odoo_logo_rgb.svg.png" width="40" height="40" /><br />Odoo</td>
             <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /><br />Node.js</td>
         </tr>
         <tr>
