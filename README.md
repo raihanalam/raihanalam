@@ -89,7 +89,7 @@
     </table>
 </div>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=postman,nginx,bash,github,illustrator" />
+    <img src="https://skillicons.dev/icons?i=postman,bash,git,figma,illustrator" />
 </p>
 
 <!-- GitHub Stats Section with modern cards & activity graph -->
