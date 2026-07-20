@@ -64,7 +64,7 @@
             <td align="center" width="90"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" /><br />JS</td>
             <td align="center" width="90"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" /><br />React</td>
             <td align="center" width="90"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" height="45" /><br />Django</td>
-            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="45" height="45" /><br />Nginx</td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><br />Git</td>
             <td align="center" width="90"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" /><br />Docker</td>
         </tr>
         <tr>
@@ -78,15 +78,15 @@
         <tr>
             <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /><br />Node.js</td>
             <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /><br />Linux</td>
-            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><br />Git</td>
+            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="45" height="45" /><br />Nginx</td>
             <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" /><br />Azure</td>
-            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" /><br />AWS</td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/amazonwebservices-original.svg" width="40" height="40" /><br />AWS</td>
             <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /><br />Figma</td>
         </tr>
     </table>
 </div>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=postman,nginx,bash,git,illustrator" />
+    <img src="https://skillicons.dev/icons?i=postman,nginx,bash,github,illustrator" />
 </p>
 
 <!-- GitHub Stats Section with modern cards & activity graph -->
