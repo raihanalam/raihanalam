@@ -95,8 +95,8 @@
 </h2>
 
 <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raihanalam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6A0DAD&icon_color=6A0DAD" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanalam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6A0DAD" />
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raihanalam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raihanalam&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
