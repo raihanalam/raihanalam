@@ -40,7 +40,7 @@
     <a href="https://www.youtube.com/@raihanhridoybd" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
-    <a href="mailto:raihan.hridoy@example.com" target="_blank">
+    <a href="mailto:raihanalam.pro@gmail" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </div>
@@ -64,8 +64,7 @@
             <td align="center" width="90"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" /><br />JS</td>
             <td align="center" width="90"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" /><br />React</td>
             <td align="center" width="90"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" height="45" /><br />Django</td>
-            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><br />Git</td>
-            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" /><br />Docker</td>
+            <td align="center"><img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo_inverted.png" width="40" height="40" /><br />Odoo</td>
         </tr>
         <tr>
             <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /><br />C++</td>
@@ -76,11 +75,15 @@
             <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" /><br />Redis</td>
         </tr>
         <tr>
+            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="45" height="45" /><br />Github</td>
+            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" /><br />Docker</td>
+            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="45" height="45" /><br />Nginx</td>
+        </tr>
+        <tr>
             <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /><br />Node.js</td>
             <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /><br />Linux</td>
-            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="45" height="45" /><br />Nginx</td>
             <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" /><br />Azure</td>
-            <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/amazonwebservices-original.svg" width="40" height="40" /><br />AWS</td>
+            <td align="center" width="90"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="45" height="45" /><br />AWS</td>
             <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /><br />Figma</td>
         </tr>
     </table>
