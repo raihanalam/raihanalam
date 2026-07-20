@@ -111,7 +111,11 @@
         <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="90%">
     </picture>
 </div>
+<!-- Interactive Activity Graph (modern) -->
 
+<div align="center">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=raihanalam&bg_color=0d1117&color=6A0DAD&line=6A0DAD&point=ffffff&area=true&hide_border=true" />
+</div>
 
 <!-- Footer with dynamic visitor counter -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
