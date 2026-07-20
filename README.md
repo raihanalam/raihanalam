@@ -119,11 +119,21 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=raihanalam&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raihanalam&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=raihanalam&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raihanalam&theme=tokyo-night&hide_border=true"/>
+</p>
 
 <!-- Footer with dynamic visitor counter -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <div align="center">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" width="90%" />
     <br />
     <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 </div>
