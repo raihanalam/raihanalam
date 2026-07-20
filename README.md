@@ -102,7 +102,7 @@
 <div align="center">
     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanalam&theme=tokyonight&hide_border=true&background=0d1117&stroke=6A0DAD&ring=6A0DAD&fire=6A0DAD&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <!-- Snake Game Contribution Grid (light/dark adaptive) -->
 <div align="center">
     <picture>
@@ -112,8 +112,6 @@
     </picture>
 </div>
 <!-- Interactive Activity Graph (modern) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 <div align="center">
     <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=raihanalam&bg_color=0d1117&color=6A0DAD&line=6A0DAD&point=ffffff&area=true&hide_border=true" />
 </div>
