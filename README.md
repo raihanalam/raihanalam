@@ -86,7 +86,7 @@
     </table>
 </div>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=postman,nginx,bash,illustrator" />
+    <img src="https://skillicons.dev/icons?i=postman,nginx,bash,git,illustrator" />
 </p>
 
 <!-- GitHub Stats Section with modern cards & activity graph -->
@@ -126,32 +126,6 @@
 </div>
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=raihanalam&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-</div>
-
-<!-- Latest YouTube Videos (optional, if you have channel) -->
-<h2 align="left">
-    📺 Latest YouTube Videos
-</h2>
-<div align="center">
-    <!-- Replace PLAYLIST_ID with your actual uploads list -->
-    <img src="https://ytcards.demolab.com/?id=PLdI0nP9LWx7d&title=Building+a+Full+Stack+App+with+Django+%26+React&lang=en&timestamp=1699563600&background_color=%230d1117&title_color=%236A0DAD&stats_color=%23ffffff&max_title_lines=1&width=300&border_radius=5" alt="YouTube video card" />
-    <img src="https://ytcards.demolab.com/?id=PLdI0nP9LWx8e&title=5+Python+Project+Ideas+for+Beginners&lang=en&timestamp=1699477200&background_color=%230d1117&title_color=%236A0DAD&stats_color=%23ffffff&max_title_lines=1&width=300&border_radius=5" alt="YouTube video card" />
-    <img src="https://ytcards.demolab.com/?id=PLdI0nP9LWx9f&title=Odoo+vs+Django+Which+one+to+choose%3F&lang=en&timestamp=1699390800&background_color=%230d1117&title_color=%236A0DAD&stats_color=%23ffffff&max_title_lines=1&width=300&border_radius=5" alt="YouTube video card" />
-</div>
-
-<!-- Support / Buy me a coffee -->
-<h2 align="left">
-    ☕ Support My Work
-</h2>
-<div align="center">
-    <a href="https://www.buymeacoffee.com/raihanalam" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" />
-    </a>
-    <a href="https://ko-fi.com/raihanalam" target="_blank">
-        <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" width="180" />
-    </a>
-    <br /><br />
-    <i>If you like my work, consider buying me a coffee – it fuels my open source contributions ☕</i>
 </div>
 
 <!-- Footer with dynamic visitor counter -->
