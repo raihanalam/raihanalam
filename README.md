@@ -2,7 +2,7 @@
 <!-- HEADER with animated gradient -->
 <!-------------------------------------------------------------------------------------------->
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Raihan;Welcome+to+my+GitHub!;Developer+%7C+Creator+%7C+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Raihan;Welcome+to+my+GitHub!;Entrepreneur+%7C+Engineer+%7C+Explorer" alt="Typing SVG" />
 </h1>
 
 <!-------------------------------------------------------------------------------------------->
